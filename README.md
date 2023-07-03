@@ -9,8 +9,10 @@
  <li>Hasil output</li>
  <li>Berakhir</li>
 </ol>
+
 <br>
 <br>
+
 <h1>2. Reverse Word</h1>
 <img src="./assets/wordsreverse.png">
 <ol>
