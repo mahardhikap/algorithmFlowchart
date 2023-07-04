@@ -2,11 +2,11 @@
 <img src="./assets/palindrom.png">
 <ol>
  <li>Mulai</li>
- <li>Input kata/kalimat</li>
- <li>Validasi input = string</li>
- <li>Reverse kata/kalimat</li>
- <li>Validasi kata/kalimat = Palindrom</li>
- <li>Hasil output</li>
+ <li>Input kata 'malam'</li>
+ <li>Validasi kata = string</li>
+ <li>Reverse kata</li>
+ <li>Validasi kata = palindrom</li>
+ <li>Hasil output 'ini adalah palindrom'</li>
  <li>Berakhir</li>
 </ol>
 
@@ -17,9 +17,9 @@
 <img src="./assets/wordsreverse.png">
 <ol>
  <li>Mulai</li>
- <li>Input kalimat</li>
- <li>Validasi input = string</li>
- <li>Reverse words</li>
- <li>Hasil output reverse words</li>
+ <li>Input kalimat 'Saya belajar Javascript'</li>
+ <li>Validasi kalimat = string</li>
+ <li>Reverse kalimat</li>
+ <li>Hasil output reverse kalimat 'Javascript belajar Saya'</li>
  <li>Berakhir</li>
 </ol>
