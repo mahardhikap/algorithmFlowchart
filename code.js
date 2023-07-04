@@ -11,7 +11,7 @@ const palindrom = (word) => {
     console.log('tidak valid')
   }
 };
-palindrom('test');
+palindrom('malam');
 
 // 2.Words Reverse
 const wordsReverse = (words) => {
