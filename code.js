@@ -1,7 +1,7 @@
 //1.Palindrom
 const palindrom = (word) => {
   if (typeof word === 'string') {
-    const newWord = word.split(' ').reverse().join(' ');
+    const newWord = word.split('').reverse().join('');
     if (word.toLowerCase() === newWord.toLowerCase()) {
       console.log('ini adalah palindrom');
     } else {
@@ -11,9 +11,9 @@ const palindrom = (word) => {
     console.log('tidak valid')
   }
 };
-palindrom('malam');
+palindrom('test');
 
-//2.Words Reverse
+// 2.Words Reverse
 const wordsReverse = (words) => {
   if (typeof words === 'string') {
     const newWords = words.split(' ').reverse().join(' ');
